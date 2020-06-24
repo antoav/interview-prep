@@ -4,6 +4,11 @@ My language of choice is Java, and the sources of these problems are HackerRank 
 
 ## work in progress
 Some ideas for this repo as I continue to add solutions I come up while I practice are to:
-    - add the difficulty level of the problem 
-    - add sample input and the output gotten with the program
-    - add comments on eficacy and how I can improve the solutions as I learn more
+<ul>
+<li>add the difficulty level of the problem </li>
+<li>add sample input and the output gotten with the program</li>
+<li>add comments on eficacy and how I can improve the solutions as I learn more</li>
+</ul>
+    
+    
+
