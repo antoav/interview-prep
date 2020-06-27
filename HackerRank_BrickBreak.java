@@ -1,3 +1,12 @@
+    /*
+    BRICK BREAK
+    
+    given a string with spaces and dashes, and an index value. 
+    If the character in the string at the specified index is a "-", 
+    transform it into a space. Otherwise, leave it alone. Metaphorically, 
+    the index is the "ball" and it "breaks" the "brick" if the break is there. 
+    */
+    
     public static String brickBreak(String bricks, int ball) {
         int length = bricks.length();
 
