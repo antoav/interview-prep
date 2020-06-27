@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 SUM OF LETTERS
     Given a string, calculate the sum of the ASCII values
@@ -9,32 +8,12 @@ SUM OF LETTERS
      */
 
 public static int summate(String vals) {
-        int sum = 0;
-        // loop through string to take each char
-        for(int i = 0; i < vals.length(); i++){
-            // add char values into an int variable
-            sum +=(int)vals.charAt(i);
-        }
-        // return int variable
-        return sum;
-=======
-/*
-SUM OF LETTERS
-    Given a string, calculate the sum of the ASCII values
-    
-     * Difficulty level: Easy.
-     * Input: String of letters.
-     * Output: integer (int) of the sum. 
-     */
-
-public static int summate(String vals) {
-        int sum = 0;
-        // loop through string to take each char
-        for(int i = 0; i < vals.length(); i++){
-            // add char values into an int variable
-            sum +=(int)vals.charAt(i);
-        }
-        // return int variable
-        return sum;
->>>>>>> 8149bd96b4aa204faec55bd07b3abed6d09576ad
+    int sum = 0;
+    // loop through string to take each char
+    for(int i = 0; i < vals.length(); i++){
+        // add char values into an int variable
+        sum +=(int)vals.charAt(i);
     }
+    // return int variable
+    return sum;
+}
